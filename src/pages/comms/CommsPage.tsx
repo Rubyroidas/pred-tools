@@ -36,7 +36,7 @@ const Node = ({node, keysPath = []}: {node: NodeConfig, keysPath?: string[]}) =>
         {node.nodes ? (
             <NodeList>
                 {Object.entries(node.nodes).map(([key, value]) => (
-                    <Node key={key} node={value} keysPath={[...keysPath, key]}/>
+                    <Node key={key} node={value} keysPath={[...keysPath, key.toUpperCase()]}/>
                 ))}
             </NodeList>
         ) : (
