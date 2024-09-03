@@ -1,0 +1,238 @@
+{
+  "name": "Root",
+  "nodes": {
+    "f1": {
+      "name": "Notify",
+      "nodes": {
+        "f1": {
+          "name": "Be Right Back"
+        },
+        "f2": {
+          "name": "Wards...",
+          "nodes": {
+            "f1": {
+              "name": "Ward Left"
+            },
+            "f2": {
+              "name": "Ward Mid"
+            },
+            "f3": {
+              "name": "Ward Right"
+            },
+            "f4": {
+              "name": "More...",
+              "nodes": {
+                "f1": {
+                  "name": "Ward Fangtooth"
+                },
+                "f2": {
+                  "name": "Please Ward Here"
+                },
+                "f3": {
+                  "name": "Enemy Ward Here"
+                },
+                "f4": {
+                  "name": "Ward Orb Prime"
+                }
+              }
+            }
+          }
+        },
+        "f3": {
+          "name": "Talk...",
+          "nodes": {
+            "f1": {
+              "name": "More...",
+              "nodes": {
+                "f1": {
+                  "name": "Good Game"
+                },
+                "f2": {
+                  "name": "Sorry"
+                },
+                "f3": {
+                  "name": "Cancel That"
+                },
+                "f4": {
+                  "name": "Thanks"
+                }
+              }
+            },
+            "f2": {
+              "name": "Ok"
+            },
+            "f3": {
+              "name": "Good Job"
+            },
+            "f4": {
+              "name": "No"
+            }
+          }
+        },
+        "f4": {
+          "name": "Tactics...",
+          "nodes": {
+            "f1": {
+              "name": "Cooldowns...",
+              "nodes": {
+                "f1": {
+                  "name": "Ultimate Status"
+                },
+                "f2": {
+                  "name": "Blink Status"
+                },
+                "f4": {
+                  "name": "Crest Status"
+                }
+              }
+            },
+            "f2": {
+              "name": "Group Up"
+            },
+            "f3": {
+              "name": "Follow Me"
+            },
+            "f4": {
+              "name": "Don't Chase"
+            }
+          }
+        }
+      }
+    },
+    "f2": {
+      "name": "Attack",
+      "nodes": {
+        "f1": {
+          "name": "Left"
+        },
+        "f2": {
+          "name": "Middle"
+        },
+        "f3": {
+          "name": "Right"
+        },
+        "f4": {
+          "name": "Camps",
+          "nodes": {
+            "f1": {
+              "name": "Fangtooth"
+            },
+            "f2": {
+              "name": "River"
+            },
+            "f3": {
+              "name": "More",
+              "nodes": {
+                "f1": {
+                  "name": "Blue"
+                },
+                "f2": {
+                  "name": "Gold"
+                },
+                "f3": {
+                  "name": "Red"
+                },
+                "f4": {
+                  "name": "Cyan"
+                }
+              }
+            },
+            "f4": {
+              "name": "Orb"
+            }
+          }
+        }
+      }
+    },
+    "f3": {
+      "name": "Alert",
+      "nodes": {
+        "f1": {
+          "name": "On My Way...",
+          "nodes": {
+            "f1": {
+              "name": "On My Way Left"
+            },
+            "f2": {
+              "name": "On My Way Mid"
+            },
+            "f3": {
+              "name": "On My Way Right"
+            },
+            "f4": {
+              "name": "On My Way"
+            }
+          }
+        },
+        "f2": {
+          "name": "Enemies Missing...",
+          "nodes": {
+            "f1": {
+              "name": "Missing Left"
+            },
+            "f2": {
+              "name": "Mising Mid"
+            },
+            "f3": {
+              "name": "Missing Right"
+            },
+            "f4": {
+              "name": "Enemy Stealthed"
+            }
+          }
+        },
+        "f3": {
+          "name": "Retreat"
+        },
+        "f4": {
+          "name": "Help...",
+          "nodes": {
+            "f1": {
+              "name": "Help Left"
+            },
+            "f2": {
+              "name": "Help Mid"
+            },
+            "f3": {
+              "name": "Help Right"
+            },
+            "f4": {
+              "name": "Need Help"
+            }
+          }
+        }
+      }
+    },
+    "f4": {
+      "name": "Defend",
+      "nodes": {
+        "f1": {
+          "name": "Left"
+        },
+        "f2": {
+          "name": "Careful...",
+          "nodes": {
+            "f1": {
+              "name": "Left"
+            },
+            "f2": {
+              "name": "Mid"
+            },
+            "f3": {
+              "name": "Right"
+            },
+            "f4": {
+              "name": "Jungle"
+            }
+          }
+        },
+        "f3": {
+          "name": "Right"
+        },
+        "f4": {
+          "name": "Middle"
+        }
+      }
+    }
+  }
+}
